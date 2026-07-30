@@ -23,6 +23,11 @@ RAG_Project/
 └── persona_backend/      # Node.js Backend repository
 ```
 
+## 🔗 Project Links
+
+- [Frontend Repository](https://github.com/J0seph-Mart1n/PersonaWebApp)
+- [Backend Repository](https://github.com/J0seph-Mart1n/Persona_Backend)
+
 ## 🛠️ Prerequisites
 
 Before running the desktop application, ensure you have the following installed and running locally:
